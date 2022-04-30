@@ -16,3 +16,14 @@ All the attributes are numerical except Ocean proximity which is categorical.
 |2|-122.24|37.85|52.0|1467.0|190.0|496.0|177.0|7.2574|352100.0|NEAR BAY|
 |3|-122.25|37.85|52.0|1274.0|235.0|558.0|219.0|5.6431|341300.0|NEAR BAY|
 |4|-122.25|37.85|52.0|1627.0|280.0|565.0|259.0|3.8462|342200.0|NEAR BAY|
+
+Since the dataset has longitude and latitude the next visual was created to see how the areas are distributed in California. 
+
+*Figure 25: California with the various housing areas*
+
+![image](https://user-images.githubusercontent.com/82097084/166112164-054f3b46-7d7c-4e8b-9739-b582232f5b28.png)
+
+Next, histograms about all features was created so that it is easy to see how the data are distributed and if some useful insights can be derived.
+
+![image](https://user-images.githubusercontent.com/82097084/166112195-3e785d50-4387-4536-89d1-be2ffa4ed03b.png)
+
